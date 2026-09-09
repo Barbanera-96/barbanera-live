@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:40:06.997258+02:00",
+  "generated_at": "2026-09-09T15:41:03.345831+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -11,23 +11,23 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 596,
-        "full_time": 14396
+        "tick_time": 539,
+        "full_time": 14339
       },
       "nerve": {
         "current": 2,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 296,
-        "full_time": 6896
+        "tick_time": 239,
+        "full_time": 6839
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 296,
+        "tick_time": 239,
         "full_time": 0
       },
       "life": {
@@ -35,14 +35,14 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 296,
-        "full_time": 296
+        "tick_time": 239,
+        "full_time": 239
       },
       "chain": {
         "id": 69346494,
         "current": 3,
         "max": 10,
-        "timeout": 139,
+        "timeout": 82,
         "modifier": 1,
         "cooldown": 0,
         "start": 1788961043,
@@ -73,6 +73,14 @@
         "modifiers": []
       },
       "total": 286
+    }
+  },
+  "workstats": {
+    "workstats": {
+      "endurance": 171,
+      "intelligence": 121,
+      "manual_labor": 253,
+      "total": 545
     }
   },
   "cooldowns": {
@@ -127,6 +135,131 @@
     "gym": {
       "id": 4,
       "name": "Beach Bods"
+    }
+  },
+  "education": {
+    "education": {
+      "complete": [
+        1
+      ],
+      "current": {
+        "id": 2,
+        "until": 1789496721
+      }
+    }
+  },
+  "merits": {
+    "merits": {
+      "upgrades": [
+        {
+          "id": 14,
+          "level": 6
+        },
+        {
+          "id": 15,
+          "level": 5
+        }
+      ],
+      "available": 1,
+      "used": 36,
+      "medals": 20,
+      "honors": 17
+    }
+  },
+  "company": {
+    "profile": {
+      "id": 119467,
+      "name": "NUMBERS (HIRING)",
+      "created_at": 1760087418,
+      "days_old": 334,
+      "image": null,
+      "type": {
+        "id": 37,
+        "name": "Private Security Firm"
+      },
+      "rating": 3,
+      "director": {
+        "id": 2785070,
+        "name": "NICCUU",
+        "status": {
+          "description": "Okay",
+          "details": null,
+          "state": "Okay",
+          "color": "green",
+          "until": null
+        },
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1788954932,
+          "relative": "1 hour ago"
+        }
+      },
+      "employees": {
+        "hired": 9,
+        "capacity": 9
+      },
+      "income": {
+        "daily": 3000000,
+        "weekly": 21000000
+      },
+      "customers": {
+        "daily": 1,
+        "weekly": 7
+      },
+      "applications_allowed": true
+    }
+  },
+  "jobpoints": {
+    "jobpoints": {
+      "jobs": {
+        "army": 61,
+        "casino": 5,
+        "education": 5,
+        "grocer": 5,
+        "law": 5,
+        "medical": 5
+      },
+      "companies": [
+        {
+          "company": {
+            "id": 37,
+            "name": "Private Security Firm"
+          },
+          "points": 15
+        }
+      ]
+    }
+  },
+  "networth": {
+    "networth": {
+      "money": {
+        "pending": 0,
+        "wallet": 111339,
+        "vault": 0,
+        "bookie": 0,
+        "city_bank": 100730,
+        "cayman_bank": 0,
+        "piggy_bank": 0,
+        "loans": 0,
+        "unpaid_fees": -2450
+      },
+      "items": {
+        "inventory": 691690,
+        "display_case": 0,
+        "bazaar": 0,
+        "trades": 0,
+        "item_market": 0,
+        "auction_house": 0,
+        "enlisted_cars": 0
+      },
+      "assets": {
+        "property": 0,
+        "stock_market": 0,
+        "company": 0
+      },
+      "points": 1139328,
+      "total": 2040637,
+      "timestamp": 1788958204
     }
   }
 }
