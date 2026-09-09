@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:40:41.398377+02:00",
+  "generated_at": "2026-09-09T23:46:33.526016+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -11,15 +11,15 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 560,
-        "full_time": 6560
+        "tick_time": 208,
+        "full_time": 6208
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 260,
+        "tick_time": 208,
         "full_time": 0
       },
       "happy": {
@@ -27,7 +27,7 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 260,
+        "tick_time": 808,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 260,
+        "tick_time": 208,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1788990040
+        "end": 1788990392
       }
     }
   },
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1788988345,
-          "relative": "28 minutes ago"
+          "relative": "34 minutes ago"
         }
       },
       "employees": {
