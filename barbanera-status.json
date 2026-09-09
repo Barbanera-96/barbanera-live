@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:05:17.225154+02:00",
+  "generated_at": "2026-09-09T20:10:17.353159+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 10,
+        "current": 15,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 285,
-        "full_time": 16485
+        "tick_time": 585,
+        "full_time": 16185
       },
       "nerve": {
-        "current": 5,
+        "current": 6,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
         "tick_time": 285,
-        "full_time": 5985
+        "full_time": 5685
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 585,
+        "tick_time": 285,
         "full_time": 0
       },
       "life": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1788977115
+        "end": 1788977415
       }
     }
   },
@@ -77,10 +77,10 @@
   },
   "workstats": {
     "workstats": {
-      "endurance": 171,
+      "endurance": 176,
       "intelligence": 121,
-      "manual_labor": 253,
-      "total": 545
+      "manual_labor": 264,
+      "total": 561
     }
   },
   "cooldowns": {
@@ -225,7 +225,7 @@
             "id": 37,
             "name": "Private Security Firm"
           },
-          "points": 15
+          "points": 18
         }
       ]
     }
