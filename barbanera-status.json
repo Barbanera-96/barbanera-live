@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:56:52.516308+02:00",
+  "generated_at": "2026-09-09T17:00:18.097956+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 40,
+        "current": 45,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 189,
-        "full_time": 12789
+        "tick_time": 584,
+        "full_time": 12584
       },
       "nerve": {
-        "current": 17,
+        "current": 18,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 189,
-        "full_time": 2289
+        "tick_time": 284,
+        "full_time": 2084
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 189,
+        "tick_time": 884,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 189,
+        "tick_time": 284,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1788965811
+        "end": 1788966016
       }
     }
   },
