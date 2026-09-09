@@ -1,1 +1,132 @@
-{}
+{
+  "generated_at": "2026-09-09T15:33:52.340846+02:00",
+  "profile": {
+    "name": "Barbanera",
+    "level": 14
+  },
+  "bars": {
+    "bars": {
+      "energy": {
+        "current": 100,
+        "maximum": 150,
+        "increment": 5,
+        "interval": 600,
+        "tick_time": 370,
+        "full_time": 5770
+      },
+      "nerve": {
+        "current": 25,
+        "maximum": 25,
+        "increment": 1,
+        "interval": 300,
+        "tick_time": 70,
+        "full_time": 0
+      },
+      "happy": {
+        "current": 800,
+        "maximum": 800,
+        "increment": 5,
+        "interval": 900,
+        "tick_time": 670,
+        "full_time": 0
+      },
+      "life": {
+        "current": 575,
+        "maximum": 575,
+        "increment": 28,
+        "interval": 300,
+        "tick_time": 70,
+        "full_time": 0
+      },
+      "chain": {
+        "id": 0,
+        "current": 0,
+        "max": 10,
+        "timeout": 0,
+        "modifier": 1,
+        "cooldown": 0,
+        "start": 0,
+        "end": 1788960830
+      }
+    }
+  },
+  "battlestats": {
+    "battlestats": {
+      "strength": {
+        "value": 50,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "defense": {
+        "value": 60,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "speed": {
+        "value": 76,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "dexterity": {
+        "value": 100,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "total": 286
+    }
+  },
+  "cooldowns": {
+    "cooldowns": {
+      "drug": 0,
+      "medical": 0,
+      "booster": 0
+    }
+  },
+  "refills": {
+    "refills": {
+      "energy": false,
+      "nerve": false,
+      "token": false,
+      "special_count": 0
+    }
+  },
+  "travel": {
+    "travel": {
+      "destination": "Torn",
+      "method": null,
+      "departed_at": null,
+      "arrival_at": null,
+      "time_left": 0
+    }
+  },
+  "skills": {
+    "skills": [
+      {
+        "slug": "graffiti",
+        "name": "Graffiti",
+        "level": 35.89
+      },
+      {
+        "slug": "search_for_cash",
+        "name": "Search for Cash",
+        "level": 7.67
+      },
+      {
+        "slug": "bootlegging",
+        "name": "Bootlegging",
+        "level": 2.53
+      },
+      {
+        "slug": "shoplifting",
+        "name": "Shoplifting",
+        "level": 2.52
+      }
+    ]
+  },
+  "gym": {
+    "gym": {
+      "id": 4,
+      "name": "Beach Bods"
+    }
+  }
+}
