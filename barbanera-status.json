@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:40:14.041698+02:00",
+  "generated_at": "2026-09-09T18:11:58.623045+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 65,
+        "current": 30,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 589,
-        "full_time": 10189
+        "tick_time": 484,
+        "full_time": 14284
       },
       "nerve": {
-        "current": 25,
+        "current": 7,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 289,
-        "full_time": 0
+        "tick_time": 184,
+        "full_time": 5284
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 289,
+        "tick_time": 184,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 289,
+        "tick_time": 184,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1788968411
+        "end": 1788970316
       }
     }
   },
@@ -112,7 +112,7 @@
       {
         "slug": "graffiti",
         "name": "Graffiti",
-        "level": 36.6
+        "level": 37.06
       },
       {
         "slug": "search_for_cash",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1788954932,
-          "relative": "3 hours ago"
+          "relative": "4 hours ago"
         }
       },
       "employees": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 283569,
+        "wallet": 284817,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 1139328,
-      "total": 2112137,
-      "timestamp": 1788965810
+      "total": 2113385,
+      "timestamp": 1788970316
     }
   }
 }
