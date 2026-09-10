@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:11:25.020099+02:00",
+  "generated_at": "2026-09-10T16:15:57.158401+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 517,
-        "full_time": 14317
+        "tick_time": 245,
+        "full_time": 14045
       },
       "nerve": {
-        "current": 11,
+        "current": 12,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 217,
-        "full_time": 4117
+        "tick_time": 245,
+        "full_time": 3845
       },
       "happy": {
-        "current": 760,
+        "current": 765,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 217,
-        "full_time": 6517
+        "tick_time": 845,
+        "full_time": 6245
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 217,
+        "tick_time": 245,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789049483
+        "end": 1789049755
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 413
+      "booster": 141
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 10858
+      "time_left": 10586
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 1 mins ",
+          "description": "In hospital for 57 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789047791,
-          "relative": "28 minutes ago"
+          "relative": "32 minutes ago"
         }
       },
       "employees": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 483377,
+        "wallet": 455047,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -244,7 +244,7 @@
         "unpaid_fees": -2800
       },
       "items": {
-        "inventory": 1322138,
+        "inventory": 1321794,
         "display_case": 0,
         "bazaar": 0,
         "trades": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189882,
-      "total": 1992597,
-      "timestamp": 1789046106
+      "total": 1963923,
+      "timestamp": 1789049754
     }
   }
 }
