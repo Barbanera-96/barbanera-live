@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:05:08.795555+02:00",
+  "generated_at": "2026-09-10T16:11:25.020099+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 25,
+        "current": 30,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 295,
-        "full_time": 14695
+        "tick_time": 517,
+        "full_time": 14317
       },
       "nerve": {
-        "current": 10,
+        "current": 11,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
-        "full_time": 4495
+        "tick_time": 217,
+        "full_time": 4117
       },
       "happy": {
         "current": 760,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 595,
-        "full_time": 6895
+        "tick_time": 217,
+        "full_time": 6517
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 217,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789049105
+        "end": 1789049483
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 790
+      "booster": 413
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 11235
+      "time_left": 10858
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 7 mins ",
+          "description": "In hospital for 1 hrs 1 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789047791,
-          "relative": "21 minutes ago"
+          "relative": "28 minutes ago"
         }
       },
       "employees": {
