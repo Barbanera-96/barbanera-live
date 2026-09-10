@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:55:30.909935+02:00",
+  "generated_at": "2026-09-10T09:00:06.641843+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 50,
+        "current": 55,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 271,
-        "full_time": 11671
+        "tick_time": 595,
+        "full_time": 11395
       },
       "nerve": {
-        "current": 22,
+        "current": 23,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 271,
-        "full_time": 871
+        "tick_time": 295,
+        "full_time": 595
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 271,
+        "tick_time": 895,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 271,
+        "tick_time": 295,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789023329
+        "end": 1789023605
       }
     }
   },
@@ -189,9 +189,9 @@
           "until": null
         },
         "last_action": {
-          "status": "Offline",
-          "timestamp": 1789015322,
-          "relative": "2 hours ago"
+          "status": "Idle",
+          "timestamp": 1789023548,
+          "relative": "1 minute ago"
         }
       },
       "employees": {
@@ -241,7 +241,7 @@
         "cayman_bank": 0,
         "piggy_bank": 0,
         "loans": 0,
-        "unpaid_fees": -2450
+        "unpaid_fees": -2800
       },
       "items": {
         "inventory": 1255614,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189882,
-      "total": 1933563,
-      "timestamp": 1789019924
+      "total": 1933213,
+      "timestamp": 1789023604
     }
   }
 }
