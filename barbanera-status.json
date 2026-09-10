@@ -1,11 +1,54 @@
 {
-  "generated_at": "2026-09-10T02:11:33.014103+02:00",
+  "generated_at": "2026-09-10T02:16:07.825516+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
   },
   "bars": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/bars"
+    "bars": {
+      "energy": {
+        "current": 150,
+        "maximum": 150,
+        "increment": 5,
+        "interval": 600,
+        "tick_time": 235,
+        "full_time": 0
+      },
+      "nerve": {
+        "current": 25,
+        "maximum": 25,
+        "increment": 1,
+        "interval": 300,
+        "tick_time": 235,
+        "full_time": 0
+      },
+      "happy": {
+        "current": 800,
+        "maximum": 800,
+        "increment": 5,
+        "interval": 900,
+        "tick_time": 835,
+        "full_time": 0
+      },
+      "life": {
+        "current": 575,
+        "maximum": 575,
+        "increment": 28,
+        "interval": 300,
+        "tick_time": 235,
+        "full_time": 0
+      },
+      "chain": {
+        "id": 0,
+        "current": 0,
+        "max": 10,
+        "timeout": 0,
+        "modifier": 1,
+        "cooldown": 0,
+        "start": 0,
+        "end": 1788999365
+      }
+    }
   },
   "battlestats": {
     "battlestats": {
@@ -65,7 +108,28 @@
     }
   },
   "skills": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/skills"
+    "skills": [
+      {
+        "slug": "graffiti",
+        "name": "Graffiti",
+        "level": 37.98
+      },
+      {
+        "slug": "search_for_cash",
+        "name": "Search for Cash",
+        "level": 7.67
+      },
+      {
+        "slug": "bootlegging",
+        "name": "Bootlegging",
+        "level": 2.53
+      },
+      {
+        "slug": "shoplifting",
+        "name": "Shoplifting",
+        "level": 2.52
+      }
+    ]
   },
   "gym": {
     "gym": {
@@ -127,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1788988345,
-          "relative": "2 hours ago"
+          "relative": "3 hours ago"
         }
       },
       "employees": {
