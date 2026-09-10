@@ -1,17 +1,87 @@
 {
-  "generated_at": "2026-09-10T02:00:53.335142+02:00",
+  "generated_at": "2026-09-10T02:06:22.631107+02:00",
   "profile": {
-    "name": null,
-    "level": null
+    "name": "Barbanera",
+    "level": 14
   },
   "bars": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/bars"
+    "bars": {
+      "energy": {
+        "current": 150,
+        "maximum": 150,
+        "increment": 5,
+        "interval": 600,
+        "tick_time": 219,
+        "full_time": 0
+      },
+      "nerve": {
+        "current": 25,
+        "maximum": 25,
+        "increment": 1,
+        "interval": 300,
+        "tick_time": 219,
+        "full_time": 0
+      },
+      "happy": {
+        "current": 800,
+        "maximum": 800,
+        "increment": 5,
+        "interval": 900,
+        "tick_time": 519,
+        "full_time": 0
+      },
+      "life": {
+        "current": 575,
+        "maximum": 575,
+        "increment": 28,
+        "interval": 300,
+        "tick_time": 219,
+        "full_time": 0
+      },
+      "chain": {
+        "id": 0,
+        "current": 0,
+        "max": 10,
+        "timeout": 0,
+        "modifier": 1,
+        "cooldown": 0,
+        "start": 0,
+        "end": 1788998781
+      }
+    }
   },
   "battlestats": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/battlestats"
+    "battlestats": {
+      "strength": {
+        "value": 50,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "defense": {
+        "value": 60,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "speed": {
+        "value": 76,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "dexterity": {
+        "value": 100,
+        "modifier": 0,
+        "modifiers": []
+      },
+      "total": 286
+    }
   },
   "workstats": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/workstats"
+    "workstats": {
+      "endurance": 176,
+      "intelligence": 121,
+      "manual_labor": 264,
+      "total": 561
+    }
   },
   "cooldowns": {
     "cooldowns": {
@@ -21,13 +91,45 @@
     }
   },
   "refills": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/refills"
+    "refills": {
+      "energy": false,
+      "nerve": false,
+      "token": false,
+      "special_count": 0
+    }
   },
   "travel": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/travel"
+    "travel": {
+      "destination": "Torn",
+      "method": null,
+      "departed_at": null,
+      "arrival_at": null,
+      "time_left": 0
+    }
   },
   "skills": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/skills"
+    "skills": [
+      {
+        "slug": "graffiti",
+        "name": "Graffiti",
+        "level": 37.98
+      },
+      {
+        "slug": "search_for_cash",
+        "name": "Search for Cash",
+        "level": 7.67
+      },
+      {
+        "slug": "bootlegging",
+        "name": "Bootlegging",
+        "level": 2.53
+      },
+      {
+        "slug": "shoplifting",
+        "name": "Shoplifting",
+        "level": 2.52
+      }
+    ]
   },
   "gym": {
     "gym": {
@@ -36,16 +138,97 @@
     }
   },
   "education": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/education"
+    "education": {
+      "complete": [
+        1
+      ],
+      "current": {
+        "id": 2,
+        "until": 1789496721
+      }
+    }
   },
   "merits": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/merits"
+    "merits": {
+      "upgrades": [
+        {
+          "id": 14,
+          "level": 6
+        },
+        {
+          "id": 15,
+          "level": 5
+        }
+      ],
+      "available": 4,
+      "used": 36,
+      "medals": 22,
+      "honors": 18
+    }
   },
   "company": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/company/profile"
+    "profile": {
+      "id": 119467,
+      "name": "NUMBERS (HIRING)",
+      "created_at": 1760087418,
+      "days_old": 334,
+      "image": null,
+      "type": {
+        "id": 37,
+        "name": "Private Security Firm"
+      },
+      "rating": 3,
+      "director": {
+        "id": 2785070,
+        "name": "NICCUU",
+        "status": {
+          "description": "Okay",
+          "details": null,
+          "state": "Okay",
+          "color": "green",
+          "until": null
+        },
+        "last_action": {
+          "status": "Offline",
+          "timestamp": 1788988345,
+          "relative": "2 hours ago"
+        }
+      },
+      "employees": {
+        "hired": 9,
+        "capacity": 9
+      },
+      "income": {
+        "daily": 3000000,
+        "weekly": 21000000
+      },
+      "customers": {
+        "daily": 1,
+        "weekly": 7
+      },
+      "applications_allowed": true
+    }
   },
   "jobpoints": {
-    "_error": "504 Server Error: Gateway Timeout for url: https://api.torn.com/v2/user/jobpoints"
+    "jobpoints": {
+      "jobs": {
+        "army": 61,
+        "casino": 5,
+        "education": 5,
+        "grocer": 5,
+        "law": 5,
+        "medical": 5
+      },
+      "companies": [
+        {
+          "company": {
+            "id": 37,
+            "name": "Private Security Firm"
+          },
+          "points": 18
+        }
+      ]
+    }
   },
   "networth": {
     "networth": {
