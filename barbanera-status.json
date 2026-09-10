@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:40:51.280860+02:00",
+  "generated_at": "2026-09-10T07:58:46.506630+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 14
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 15,
+        "current": 20,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 550,
-        "full_time": 16150
+        "tick_time": 75,
+        "full_time": 15075
       },
       "nerve": {
-        "current": 7,
+        "current": 10,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 250,
-        "full_time": 5350
+        "tick_time": 75,
+        "full_time": 4275
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 250,
+        "tick_time": 75,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 575,
         "increment": 28,
         "interval": 300,
-        "tick_time": 250,
+        "tick_time": 75,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789018850
+        "end": 1789019925
       }
     }
   },
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789015322,
-          "relative": "58 minutes ago"
+          "relative": "1 hour ago"
         }
       },
       "employees": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 488847,
+        "wallet": 490517,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -244,7 +244,7 @@
         "unpaid_fees": -2450
       },
       "items": {
-        "inventory": 1165894,
+        "inventory": 1255614,
         "display_case": 0,
         "bazaar": 0,
         "trades": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189882,
-      "total": 1842173,
-      "timestamp": 1789015902
+      "total": 1933563,
+      "timestamp": 1789019924
     }
   }
 }
