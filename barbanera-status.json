@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:47:18.511602+02:00",
+  "generated_at": "2026-09-10T17:53:02.472553+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 75,
+        "current": 80,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 172,
-        "full_time": 8572
+        "tick_time": 422,
+        "full_time": 8222
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 172,
+        "tick_time": 122,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 772,
-        "full_time": 772
+        "tick_time": 422,
+        "full_time": 422
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 172,
+        "tick_time": 122,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789055228
+        "end": 1789055578
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 5113
+      "time_left": 4762
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 25 mins ",
+          "description": "In hospital for 19 mins ",
           "details": "Mugged by Roadoilers",
           "state": "Hospital",
           "color": "red",
