@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:10:25.043280+02:00",
+  "generated_at": "2026-09-10T14:15:10.508332+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,23 +11,23 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 579,
-        "full_time": 8979
+        "tick_time": 294,
+        "full_time": 8694
       },
       "nerve": {
-        "current": 5,
+        "current": 6,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 279,
-        "full_time": 5979
+        "tick_time": 294,
+        "full_time": 5694
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 279,
+        "tick_time": 894,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 279,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789042221
+        "end": 1789042506
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 7674
+      "booster": 7389
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789041173,
       "arrival_at": 1789042613,
-      "time_left": 389
+      "time_left": 104
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 24 mins ",
+          "description": "In hospital for 19 mins ",
           "details": "Attacked by CALAMITY_gRACE",
           "state": "Hospital",
           "color": "red",
@@ -190,8 +190,8 @@
         },
         "last_action": {
           "status": "Online",
-          "timestamp": 1789042181,
-          "relative": "0 minutes ago"
+          "timestamp": 1789042432,
+          "relative": "1 minute ago"
         }
       },
       "employees": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 480772,
+        "wallet": 475772,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189882,
-      "total": 1989992,
-      "timestamp": 1789038641
+      "total": 1984992,
+      "timestamp": 1789042504
     }
   }
 }
