@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:20:11.202640+02:00",
+  "generated_at": "2026-09-10T19:25:08.801265+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,15 +11,15 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 2995
+        "tick_time": 296,
+        "full_time": 2696
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 296,
         "full_time": 0
       },
       "happy": {
@@ -27,16 +27,16 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 595,
+        "tick_time": 296,
         "full_time": 0
       },
       "life": {
-        "current": 63,
+        "current": 94,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
-        "full_time": 5695
+        "tick_time": 296,
+        "full_time": 5396
       },
       "chain": {
         "id": 0,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789060805
+        "end": 1789061104
       }
     }
   },
@@ -182,11 +182,11 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "Okay",
-          "details": null,
-          "state": "Okay",
-          "color": "green",
-          "until": null
+          "description": "In hospital for 12 mins ",
+          "details": "Attacked by MuddyFunster",
+          "state": "Hospital",
+          "color": "red",
+          "until": 1789061883
         },
         "last_action": {
           "status": "Offline",
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 1901047,
+        "wallet": 1766073,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189882,
-      "total": 3409923,
-      "timestamp": 1789057223
+      "total": 3274949,
+      "timestamp": 1789061103
     }
   }
 }
