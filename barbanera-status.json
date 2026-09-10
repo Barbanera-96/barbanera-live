@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:45:11.894544+02:00",
+  "generated_at": "2026-09-10T19:50:12.084848+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,12 +7,12 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 135,
+        "current": 140,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 294,
-        "full_time": 1494
+        "tick_time": 594,
+        "full_time": 1194
       },
       "nerve": {
         "current": 25,
@@ -27,16 +27,16 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 894,
+        "tick_time": 594,
         "full_time": 0
       },
       "life": {
-        "current": 218,
+        "current": 249,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
         "tick_time": 294,
-        "full_time": 4194
+        "full_time": 3894
       },
       "chain": {
         "id": 0,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789062306
+        "end": 1789062606
       }
     }
   },
@@ -100,11 +100,11 @@
   },
   "travel": {
     "travel": {
-      "destination": "China",
+      "destination": "Torn",
       "method": "Standard",
-      "departed_at": 1789046903,
-      "arrival_at": 1789060343,
-      "time_left": 0
+      "departed_at": 1789062459,
+      "arrival_at": 1789076439,
+      "time_left": 13829
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 3 hrs 14 mins ",
+          "description": "In hospital for 3 hrs 9 mins ",
           "details": "Hospitalized by Dayend",
           "state": "Hospital",
           "color": "red",
