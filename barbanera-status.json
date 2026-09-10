@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:15:10.508332+02:00",
+  "generated_at": "2026-09-10T14:20:39.383753+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 75,
+        "current": 80,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 294,
-        "full_time": 8694
+        "tick_time": 563,
+        "full_time": 8363
       },
       "nerve": {
-        "current": 6,
+        "current": 7,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 294,
-        "full_time": 5694
+        "tick_time": 263,
+        "full_time": 5363
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 894,
+        "tick_time": 563,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 294,
+        "tick_time": 263,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789042506
+        "end": 1789042837
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 7389
+      "booster": 7059
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789041173,
       "arrival_at": 1789042613,
-      "time_left": 104
+      "time_left": 0
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 19 mins ",
-          "details": "Attacked by CALAMITY_gRACE",
+          "description": "In hospital for 30 mins ",
+          "details": "Mugged by someone",
           "state": "Hospital",
           "color": "red",
-          "until": 1789043686
+          "until": 1789044686
         },
         "last_action": {
           "status": "Online",
-          "timestamp": 1789042432,
-          "relative": "1 minute ago"
+          "timestamp": 1789042830,
+          "relative": "0 minutes ago"
         }
       },
       "employees": {
