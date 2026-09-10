@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:45:19.414453+02:00",
+  "generated_at": "2026-09-10T14:50:11.568107+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 90,
+        "current": 95,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 283,
-        "full_time": 6883
+        "tick_time": 591,
+        "full_time": 6591
       },
       "nerve": {
-        "current": 12,
+        "current": 13,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 283,
-        "full_time": 3883
+        "tick_time": 291,
+        "full_time": 3591
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 883,
+        "tick_time": 591,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 283,
+        "tick_time": 291,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789044317
+        "end": 1789044609
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 5579
+      "booster": 5287
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789043705,
       "arrival_at": 1789045145,
-      "time_left": 826
+      "time_left": 534
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 19 mins ",
+          "description": "In hospital for 14 mins ",
           "details": "Lost to Gambitxr",
           "state": "Hospital",
           "color": "red",
           "until": 1789045501
         },
         "last_action": {
-          "status": "Online",
+          "status": "Offline",
           "timestamp": 1789044104,
-          "relative": "3 minutes ago"
+          "relative": "8 minutes ago"
         }
       },
       "employees": {
