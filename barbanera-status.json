@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:00:36.621545+02:00",
+  "generated_at": "2026-09-10T16:05:08.795555+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 566,
-        "full_time": 14966
+        "tick_time": 295,
+        "full_time": 14695
       },
       "nerve": {
-        "current": 9,
+        "current": 10,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 266,
-        "full_time": 4766
+        "tick_time": 295,
+        "full_time": 4495
       },
       "happy": {
         "current": 760,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 866,
-        "full_time": 7166
+        "tick_time": 595,
+        "full_time": 6895
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 266,
+        "tick_time": 295,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789048834
+        "end": 1789049105
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 1061
+      "booster": 790
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 11507
+      "time_left": 11235
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 12 mins ",
+          "description": "In hospital for 1 hrs 7 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789047791,
-          "relative": "17 minutes ago"
+          "relative": "21 minutes ago"
         }
       },
       "employees": {
