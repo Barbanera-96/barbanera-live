@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:01:45.778452+02:00",
+  "generated_at": "2026-09-10T22:05:09.755277+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,7 +11,7 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 496,
+        "tick_time": 295,
         "full_time": 0
       },
       "nerve": {
@@ -19,7 +19,7 @@
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 196,
+        "tick_time": 295,
         "full_time": 0
       },
       "happy": {
@@ -27,7 +27,7 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 796,
+        "tick_time": 595,
         "full_time": 0
       },
       "life": {
@@ -35,14 +35,14 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 196,
+        "tick_time": 295,
         "full_time": 0
       },
       "chain": {
         "id": 69420109,
         "current": 1,
         "max": 10,
-        "timeout": 257,
+        "timeout": 56,
         "modifier": 1,
         "cooldown": 0,
         "start": 1789070461,
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789062459,
       "arrival_at": 1789076439,
-      "time_left": 5934
+      "time_left": 5731
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 57 mins ",
+          "description": "In hospital for 54 mins ",
           "details": "Hospitalized by Dayend",
           "state": "Hospital",
           "color": "red",
