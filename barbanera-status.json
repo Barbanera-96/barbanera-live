@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:58:04.751221+02:00",
+  "generated_at": "2026-09-10T14:00:10.853965+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 65,
+        "current": 70,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 117,
-        "full_time": 9717
+        "tick_time": 594,
+        "full_time": 9594
       },
       "nerve": {
-        "current": 2,
+        "current": 3,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 117,
-        "full_time": 6717
+        "tick_time": 294,
+        "full_time": 6594
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 117,
+        "tick_time": 894,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 117,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789041483
+        "end": 1789041606
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 8413
+      "booster": 8289
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789041173,
       "arrival_at": 1789042613,
-      "time_left": 1129
+      "time_left": 1004
     }
   },
   "skills": {
@@ -190,7 +190,7 @@
         },
         "last_action": {
           "status": "Online",
-          "timestamp": 1789041466,
+          "timestamp": 1789041611,
           "relative": "0 minutes ago"
         }
       },
