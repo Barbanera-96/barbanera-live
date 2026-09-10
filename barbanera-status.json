@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:25:22.071931+02:00",
+  "generated_at": "2026-09-10T14:30:20.318742+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,27 +7,27 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 80,
+        "current": 85,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 281,
-        "full_time": 8081
+        "tick_time": 583,
+        "full_time": 7783
       },
       "nerve": {
-        "current": 8,
+        "current": 9,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 281,
-        "full_time": 5081
+        "tick_time": 283,
+        "full_time": 4783
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 281,
+        "tick_time": 883,
         "full_time": 0
       },
       "life": {
@@ -35,18 +35,18 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 281,
+        "tick_time": 283,
         "full_time": 0
       },
       "chain": {
-        "id": 0,
-        "current": 0,
+        "id": 69389441,
+        "current": 1,
         "max": 10,
-        "timeout": 0,
+        "timeout": 93,
         "modifier": 1,
         "cooldown": 0,
-        "start": 0,
-        "end": 1789043119
+        "start": 1789043210,
+        "end": 1789043510
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 6776
+      "booster": 6478
     }
   },
   "refills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 26 mins ",
+          "description": "In hospital for 21 mins ",
           "details": "Mugged by someone",
           "state": "Hospital",
           "color": "red",
           "until": 1789044686
         },
         "last_action": {
-          "status": "Online",
+          "status": "Idle",
           "timestamp": 1789043036,
-          "relative": "1 minute ago"
+          "relative": "6 minutes ago"
         }
       },
       "employees": {
