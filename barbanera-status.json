@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:35:11.327874+02:00",
+  "generated_at": "2026-09-10T15:40:08.521594+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 10,
+        "current": 15,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 291,
-        "full_time": 16491
+        "tick_time": 594,
+        "full_time": 16194
       },
       "nerve": {
-        "current": 4,
+        "current": 5,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 291,
-        "full_time": 6291
+        "tick_time": 294,
+        "full_time": 5994
       },
       "happy": {
         "current": 750,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 591,
-        "full_time": 8691
+        "tick_time": 294,
+        "full_time": 8394
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 291,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789047309
+        "end": 1789047606
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 2586
+      "booster": 2290
     }
   },
   "refills": {
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 13032
+      "time_left": 12735
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 6 mins ",
-          "details": "Attacked by Albatra",
-          "state": "Hospital",
-          "color": "red",
-          "until": 1789047730
+          "description": "Okay",
+          "details": null,
+          "state": "Okay",
+          "color": "green",
+          "until": null
         },
         "last_action": {
-          "status": "Offline",
-          "timestamp": 1789046792,
-          "relative": "8 minutes ago"
+          "status": "Online",
+          "timestamp": 1789047590,
+          "relative": "0 minutes ago"
         }
       },
       "employees": {
