@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:50:05.824613+02:00",
+  "generated_at": "2026-09-10T13:58:04.751221+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,23 +11,23 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 596,
-        "full_time": 10196
+        "tick_time": 117,
+        "full_time": 9717
       },
       "nerve": {
-        "current": 25,
+        "current": 2,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 296,
-        "full_time": 0
+        "tick_time": 117,
+        "full_time": 6717
       },
       "happy": {
         "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 596,
+        "tick_time": 117,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 296,
+        "tick_time": 117,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789041004
+        "end": 1789041483
       }
     }
   },
@@ -87,7 +87,7 @@
     "cooldowns": {
       "drug": 0,
       "medical": 0,
-      "booster": 8892
+      "booster": 8413
     }
   },
   "refills": {
@@ -100,11 +100,11 @@
   },
   "travel": {
     "travel": {
-      "destination": "Torn",
-      "method": null,
-      "departed_at": null,
-      "arrival_at": null,
-      "time_left": 0
+      "destination": "Mexico",
+      "method": "Standard",
+      "departed_at": 1789041173,
+      "arrival_at": 1789042613,
+      "time_left": 1129
     }
   },
   "skills": {
@@ -112,7 +112,7 @@
       {
         "slug": "graffiti",
         "name": "Graffiti",
-        "level": 40.09
+        "level": 40.58
       },
       {
         "slug": "search_for_cash",
@@ -189,9 +189,9 @@
           "until": null
         },
         "last_action": {
-          "status": "Offline",
-          "timestamp": 1789035314,
-          "relative": "1 hour ago"
+          "status": "Online",
+          "timestamp": 1789041466,
+          "relative": "0 minutes ago"
         }
       },
       "employees": {
