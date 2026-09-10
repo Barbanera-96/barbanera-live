@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:50:09.242232+02:00",
+  "generated_at": "2026-09-10T18:55:07.086884+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,8 +11,8 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 596,
-        "full_time": 4796
+        "tick_time": 296,
+        "full_time": 4496
       },
       "nerve": {
         "current": 25,
@@ -27,7 +27,7 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 596,
+        "tick_time": 296,
         "full_time": 0
       },
       "life": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789059004
+        "end": 1789059304
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789046903,
       "arrival_at": 1789060343,
-      "time_left": 1335
+      "time_left": 1037
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 29 mins ",
+          "description": "In hospital for 24 mins ",
           "details": "Attacked by ZoRch69",
           "state": "Hospital",
           "color": "red",
