@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:30:13.372346+02:00",
+  "generated_at": "2026-09-10T22:35:09.038890+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,7 +11,7 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 592,
+        "tick_time": 294,
         "full_time": 0
       },
       "nerve": {
@@ -19,7 +19,7 @@
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 292,
+        "tick_time": 294,
         "full_time": 0
       },
       "happy": {
@@ -27,7 +27,7 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 892,
+        "tick_time": 594,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 292,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789072208
+        "end": 1789072506
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789062459,
       "arrival_at": 1789076439,
-      "time_left": 4228
+      "time_left": 3931
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 12 mins ",
-          "details": "Attacked by Ronin_",
+          "description": "In hospital for 1 hrs 11 mins ",
+          "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
-          "until": 1789072971
+          "until": 1789076826
         },
         "last_action": {
-          "status": "Online",
-          "timestamp": 1789072208,
-          "relative": "0 minutes ago"
+          "status": "Offline",
+          "timestamp": 1789072377,
+          "relative": "2 minutes ago"
         }
       },
       "employees": {
