@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:20:09.712715+02:00",
+  "generated_at": "2026-09-11T19:25:08.059018+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,15 +11,15 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 4795
+        "tick_time": 296,
+        "full_time": 4496
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 296,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 595,
-        "full_time": 595
+        "tick_time": 296,
+        "full_time": 296
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 296,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789147205
+        "end": 1789147504
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789144263,
       "arrival_at": 1789153443,
-      "time_left": 6235
+      "time_left": 5936
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 21 mins ",
+          "description": "In hospital for 16 mins ",
           "details": "Attacked by Natty_Boh",
           "state": "Hospital",
           "color": "red",
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 12333,
+        "wallet": 520193,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -244,11 +244,11 @@
         "unpaid_fees": -3150
       },
       "items": {
-        "inventory": 1412042,
+        "inventory": 1728222,
         "display_case": 0,
         "bazaar": 0,
         "trades": 0,
-        "item_market": 574720,
+        "item_market": 0,
         "auction_house": 0,
         "enlisted_cars": 0
       },
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189606,
-      "total": 2185551,
-      "timestamp": 1789143613
+      "total": 2434871,
+      "timestamp": 1789147503
     }
   }
 }
