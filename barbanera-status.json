@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:45:46.951456+02:00",
+  "generated_at": "2026-09-11T18:50:11.052795+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 90,
+        "current": 95,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 256,
-        "full_time": 6856
+        "tick_time": 595,
+        "full_time": 6595
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 256,
+        "tick_time": 295,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 856,
-        "full_time": 2656
+        "tick_time": 595,
+        "full_time": 2395
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 256,
+        "tick_time": 295,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789145144
+        "end": 1789145405
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789144263,
       "arrival_at": 1789153443,
-      "time_left": 8297
+      "time_left": 8034
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 13 mins ",
+          "description": "In hospital for 9 mins ",
           "details": "Attacked by someone",
           "state": "Hospital",
           "color": "red",
