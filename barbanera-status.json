@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:51:30.678771+02:00",
+  "generated_at": "2026-09-11T07:55:59.354929+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 511,
-        "full_time": 14911
+        "tick_time": 242,
+        "full_time": 14642
       },
       "nerve": {
-        "current": 11,
+        "current": 12,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 211,
-        "full_time": 4111
+        "tick_time": 242,
+        "full_time": 3842
       },
       "happy": {
         "current": 730,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 511,
-        "full_time": 12211
+        "tick_time": 242,
+        "full_time": 11942
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 211,
+        "tick_time": 242,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789105889
+        "end": 1789106158
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789103143,
       "arrival_at": 1789116883,
-      "time_left": 10993
+      "time_left": 10724
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 14 mins ",
+          "description": "In hospital for 10 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789104124,
-          "relative": "29 minutes ago"
+          "relative": "33 minutes ago"
         }
       },
       "employees": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 114089,
+        "wallet": 83333,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189606,
-      "total": 1622723,
-      "timestamp": 1789102503
+      "total": 1591967,
+      "timestamp": 1789106157
     }
   }
 }
