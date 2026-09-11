@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:40:09.589940+02:00",
+  "generated_at": "2026-09-11T21:45:09.787415+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 150,
+        "current": 0,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 0
+        "tick_time": 294,
+        "full_time": 17694
       },
       "nerve": {
-        "current": 25,
+        "current": 2,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
-        "full_time": 0
+        "tick_time": 294,
+        "full_time": 6894
       },
       "happy": {
-        "current": 800,
+        "current": 726,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 295,
-        "full_time": 0
+        "tick_time": 894,
+        "full_time": 13494
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789155605
+        "end": 1789155906
       }
     }
   },
@@ -68,11 +68,11 @@
         "modifiers": []
       },
       "dexterity": {
-        "value": 121,
+        "value": 150,
         "modifier": 0,
         "modifiers": []
       },
-      "total": 421
+      "total": 450
     }
   },
   "workstats": {
@@ -112,7 +112,7 @@
       {
         "slug": "graffiti",
         "name": "Graffiti",
-        "level": 42.62
+        "level": 43.01
       },
       {
         "slug": "search_for_cash",
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 2 hrs 56 mins ",
+          "description": "In hospital for 2 hrs 51 mins ",
           "details": "Hospitalized by Jean-Joseph",
           "state": "Hospital",
           "color": "red",
