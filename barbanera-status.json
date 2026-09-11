@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T22:15:25.176221+02:00",
+  "generated_at": "2026-09-11T22:20:08.462319+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 15,
+        "current": 20,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 277,
-        "full_time": 15877
+        "tick_time": 595,
+        "full_time": 15595
       },
       "nerve": {
-        "current": 8,
+        "current": 9,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 277,
-        "full_time": 5077
+        "tick_time": 295,
+        "full_time": 4795
       },
       "happy": {
         "current": 736,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 877,
-        "full_time": 11677
+        "tick_time": 595,
+        "full_time": 11395
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 277,
+        "tick_time": 295,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789157723
+        "end": 1789158005
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789155993,
       "arrival_at": 1789158273,
-      "time_left": 548
+      "time_left": 266
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 2 hrs 21 mins ",
+          "description": "In hospital for 2 hrs 16 mins ",
           "details": "Hospitalized by Jean-Joseph",
           "state": "Hospital",
           "color": "red",
