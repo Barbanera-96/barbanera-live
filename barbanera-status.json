@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:00:09.488298+02:00",
+  "generated_at": "2026-09-12T01:05:07.394924+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,24 +11,24 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 5995
+        "tick_time": 295,
+        "full_time": 5695
       },
       "nerve": {
-        "current": 23,
+        "current": 24,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
         "tick_time": 295,
-        "full_time": 595
+        "full_time": 295
       },
       "happy": {
         "current": 791,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 895,
-        "full_time": 1795
+        "tick_time": 595,
+        "full_time": 1495
       },
       "life": {
         "current": 625,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789167605
+        "end": 1789167905
       }
     }
   },
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 12 mins ",
+          "description": "In hospital for 7 mins ",
           "details": "Attacked by someone",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789164574,
-          "relative": "50 minutes ago"
+          "relative": "55 minutes ago"
         }
       },
       "employees": {
