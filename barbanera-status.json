@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:25:09.265839+02:00",
+  "generated_at": "2026-09-11T10:30:50.195745+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 100,
+        "current": 105,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 293,
-        "full_time": 5693
+        "tick_time": 552,
+        "full_time": 5352
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 293,
+        "tick_time": 252,
         "full_time": 0
       },
       "happy": {
-        "current": 780,
+        "current": 785,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 293,
-        "full_time": 2993
+        "tick_time": 852,
+        "full_time": 2652
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 293,
+        "tick_time": 252,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789115107
+        "end": 1789115448
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789103143,
       "arrival_at": 1789116883,
-      "time_left": 1774
+      "time_left": 1433
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 2 mins ",
+          "description": "In hospital for 56 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789114622,
-          "relative": "8 minutes ago"
+          "relative": "13 minutes ago"
         }
       },
       "employees": {
