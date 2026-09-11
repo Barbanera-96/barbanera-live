@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:05:07.394924+02:00",
+  "generated_at": "2026-09-12T01:10:08.349196+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,28 +7,28 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 100,
+        "current": 105,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 295,
-        "full_time": 5695
+        "tick_time": 595,
+        "full_time": 5395
       },
       "nerve": {
-        "current": 24,
+        "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
         "tick_time": 295,
-        "full_time": 295
+        "full_time": 0
       },
       "happy": {
         "current": 791,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 595,
-        "full_time": 1495
+        "tick_time": 295,
+        "full_time": 1195
       },
       "life": {
         "current": 625,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789167905
+        "end": 1789168205
       }
     }
   },
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 7 mins ",
-          "details": "Attacked by someone",
+          "description": "In hospital for 1 hrs 21 mins ",
+          "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
-          "until": 1789168369
+          "until": 1789173074
         },
         "last_action": {
           "status": "Offline",
-          "timestamp": 1789164574,
-          "relative": "55 minutes ago"
+          "timestamp": 1789168042,
+          "relative": "2 minutes ago"
         }
       },
       "employees": {
