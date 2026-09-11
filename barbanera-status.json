@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:50:11.813026+02:00",
+  "generated_at": "2026-09-11T15:55:38.307272+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 593,
-        "full_time": 17393
+        "tick_time": 264,
+        "full_time": 17064
       },
       "nerve": {
-        "current": 3,
+        "current": 4,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 293,
-        "full_time": 6593
+        "tick_time": 264,
+        "full_time": 6264
       },
       "happy": {
         "current": 727,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 593,
-        "full_time": 13193
+        "tick_time": 264,
+        "full_time": 12864
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 293,
+        "tick_time": 264,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789134607
+        "end": 1789134936
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789134535,
       "arrival_at": 1789143835,
-      "time_left": 9224
+      "time_left": 8897
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 44 mins ",
+          "description": "In hospital for 39 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789133863,
-          "relative": "12 minutes ago"
+          "relative": "17 minutes ago"
         }
       },
       "employees": {
