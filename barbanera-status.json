@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:06:13.540602+02:00",
+  "generated_at": "2026-09-11T11:11:23.999227+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 120,
+        "current": 125,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 229,
-        "full_time": 3229
+        "tick_time": 519,
+        "full_time": 2919
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 229,
+        "tick_time": 219,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 529,
-        "full_time": 529
+        "tick_time": 219,
+        "full_time": 219
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 229,
+        "tick_time": 219,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789117571
+        "end": 1789117881
       }
     }
   },
@@ -171,7 +171,7 @@
       "id": 119467,
       "name": "NUMBERS (HIRING)",
       "created_at": 1760087418,
-      "days_old": 335,
+      "days_old": 336,
       "image": null,
       "type": {
         "id": 37,
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 1 mins ",
+          "description": "In hospital for 56 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
           "until": 1789121279
         },
         "last_action": {
-          "status": "Online",
-          "timestamp": 1789117564,
-          "relative": "0 minutes ago"
+          "status": "Offline",
+          "timestamp": 1789117579,
+          "relative": "5 minutes ago"
         }
       },
       "employees": {
