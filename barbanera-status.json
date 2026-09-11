@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:15:12.365441+02:00",
+  "generated_at": "2026-09-11T18:20:18.814002+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 75,
+        "current": 80,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 294,
-        "full_time": 8694
+        "tick_time": 586,
+        "full_time": 8386
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 294,
+        "tick_time": 286,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 894,
-        "full_time": 4494
+        "tick_time": 586,
+        "full_time": 4186
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 294,
+        "tick_time": 286,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789143306
+        "end": 1789143614
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789134535,
       "arrival_at": 1789143835,
-      "time_left": 525
+      "time_left": 217
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 20 mins ",
+          "description": "In hospital for 14 mins ",
           "details": "Attacked by Ponciyak",
           "state": "Hospital",
           "color": "red",
@@ -259,7 +259,7 @@
       },
       "points": 189606,
       "total": 2185551,
-      "timestamp": 1789139736
+      "timestamp": 1789143613
     }
   }
 }
