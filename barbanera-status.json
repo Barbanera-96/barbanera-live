@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:40:30.924984+02:00",
+  "generated_at": "2026-09-11T16:47:32.220103+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 574,
-        "full_time": 14374
+        "tick_time": 150,
+        "full_time": 13950
       },
       "nerve": {
-        "current": 13,
+        "current": 14,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 274,
-        "full_time": 3574
+        "tick_time": 150,
+        "full_time": 3150
       },
       "happy": {
-        "current": 742,
+        "current": 747,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 274,
-        "full_time": 10174
+        "tick_time": 750,
+        "full_time": 9750
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 274,
+        "tick_time": 150,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789137626
+        "end": 1789138050
       }
     }
   },
@@ -91,7 +91,12 @@
     }
   },
   "refills": {
-    "_error": "HTTPSConnectionPool(host='api.torn.com', port=443): Max retries exceeded with url: /v2/user/refills (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))"
+    "refills": {
+      "energy": false,
+      "nerve": false,
+      "token": false,
+      "special_count": 0
+    }
   },
   "travel": {
     "travel": {
@@ -99,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789134535,
       "arrival_at": 1789143835,
-      "time_left": 6205
+      "time_left": 5783
     }
   },
   "skills": {
@@ -177,11 +182,11 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "Okay",
-          "details": null,
-          "state": "Okay",
-          "color": "green",
-          "until": null
+          "description": "In hospital for 25 mins ",
+          "details": "Attacked by Fre90",
+          "state": "Hospital",
+          "color": "red",
+          "until": 1789139565
         },
         "last_action": {
           "status": "Offline",
