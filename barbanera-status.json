@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:40:08.091176+02:00",
+  "generated_at": "2026-09-11T23:45:08.544393+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,24 +11,24 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 10795
+        "tick_time": 295,
+        "full_time": 10495
       },
       "nerve": {
-        "current": 7,
+        "current": 8,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
         "tick_time": 295,
-        "full_time": 5395
+        "full_time": 5095
       },
       "happy": {
-        "current": 761,
+        "current": 766,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 295,
-        "full_time": 6595
+        "tick_time": 895,
+        "full_time": 6295
       },
       "life": {
         "current": 625,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789162805
+        "end": 1789163105
       }
     }
   },
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 56 mins ",
+          "description": "In hospital for 51 mins ",
           "details": "Hospitalized by Jean-Joseph",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789160533,
-          "relative": "37 minutes ago"
+          "relative": "42 minutes ago"
         }
       },
       "employees": {
