@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:45:20.092134+02:00",
+  "generated_at": "2026-09-12T07:50:33.598983+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 20,
+        "current": 25,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 282,
-        "full_time": 15282
+        "tick_time": 568,
+        "full_time": 14968
       },
       "nerve": {
-        "current": 10,
+        "current": 11,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 282,
-        "full_time": 4482
+        "tick_time": 268,
+        "full_time": 4168
       },
       "happy": {
         "current": 733,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 882,
-        "full_time": 12582
+        "tick_time": 568,
+        "full_time": 12268
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 282,
+        "tick_time": 268,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789191918
+        "end": 1789192232
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 11506
+      "time_left": 11191
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 21 mins ",
-          "details": "Attacked by Tedworth",
-          "state": "Hospital",
-          "color": "red",
-          "until": 1789193199
+          "description": "Okay",
+          "details": null,
+          "state": "Okay",
+          "color": "green",
+          "until": null
         },
         "last_action": {
-          "status": "Offline",
-          "timestamp": 1789186015,
-          "relative": "1 hour ago"
+          "status": "Online",
+          "timestamp": 1789192232,
+          "relative": "0 minutes ago"
         }
       },
       "employees": {
