@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:40:07.262976+02:00",
+  "generated_at": "2026-09-12T09:45:13.173259+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,42 +11,42 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
-        "full_time": 8395
+        "tick_time": 289,
+        "full_time": 8089
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 289,
         "full_time": 0
       },
       "happy": {
-        "current": 768,
+        "current": 773,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 295,
-        "full_time": 5695
+        "tick_time": 889,
+        "full_time": 5389
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 289,
         "full_time": 0
       },
       "chain": {
-        "id": 69553968,
-        "current": 1,
+        "id": 0,
+        "current": 0,
         "max": 10,
-        "timeout": 223,
+        "timeout": 0,
         "modifier": 1,
         "cooldown": 0,
-        "start": 1789198728,
-        "end": 1789199028
+        "start": 0,
+        "end": 1789199111
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 4618
+      "time_left": 4312
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 1 hrs 10 mins ",
+          "description": "In hospital for 1 hrs 5 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
           "until": 1789203025
         },
         "last_action": {
-          "status": "Idle",
+          "status": "Offline",
           "timestamp": 1789198688,
-          "relative": "2 minutes ago"
+          "relative": "7 minutes ago"
         }
       },
       "employees": {
