@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:27:41.917529+02:00",
+  "generated_at": "2026-09-12T21:34:15.883284+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 120,
+        "current": 125,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 141,
-        "full_time": 3141
+        "tick_time": 347,
+        "full_time": 2747
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 141,
+        "tick_time": 47,
         "full_time": 0
       },
       "happy": {
-        "current": 799,
+        "current": 800,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 141,
-        "full_time": 141
+        "tick_time": 647,
+        "full_time": 0
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 141,
+        "tick_time": 47,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789241259
+        "end": 1789241653
       }
     }
   },
@@ -100,11 +100,11 @@
   },
   "travel": {
     "travel": {
-      "destination": "China",
+      "destination": "Torn",
       "method": "Standard",
-      "departed_at": 1789226686,
-      "arrival_at": 1789240426,
-      "time_left": 0
+      "departed_at": 1789241289,
+      "arrival_at": 1789254909,
+      "time_left": 13254
     }
   },
   "skills": {
