@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:37:26.226152+02:00",
+  "generated_at": "2026-09-12T12:40:08.399584+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,7 +11,7 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 155,
+        "tick_time": 595,
         "full_time": 0
       },
       "nerve": {
@@ -19,7 +19,7 @@
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 155,
+        "tick_time": 295,
         "full_time": 0
       },
       "happy": {
@@ -27,16 +27,16 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 455,
+        "tick_time": 295,
         "full_time": 0
       },
       "life": {
-        "current": 282,
+        "current": 313,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 155,
-        "full_time": 3455
+        "tick_time": 295,
+        "full_time": 3295
       },
       "chain": {
         "id": 0,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789209445
+        "end": 1789209605
       }
     }
   },
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 3 hrs 37 mins ",
+          "description": "In hospital for 3 hrs 34 mins ",
           "details": "Hospitalized by DrMedicalschool",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789209331,
-          "relative": "1 minute ago"
+          "relative": "4 minutes ago"
         }
       },
       "employees": {
