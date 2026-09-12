@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:00:15.732922+02:00",
+  "generated_at": "2026-09-12T18:26:32.198525+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 20,
+        "current": 30,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 587,
-        "full_time": 15587
+        "tick_time": 210,
+        "full_time": 14010
       },
       "nerve": {
-        "current": 9,
+        "current": 14,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 287,
-        "full_time": 4787
+        "tick_time": 210,
+        "full_time": 3210
       },
       "happy": {
-        "current": 734,
+        "current": 739,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 887,
-        "full_time": 12587
+        "tick_time": 210,
+        "full_time": 11010
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 287,
+        "tick_time": 210,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789228813
+        "end": 1789230390
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789226686,
       "arrival_at": 1789240426,
-      "time_left": 11611
+      "time_left": 10034
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 10 mins ",
-          "details": "Attacked by Arris",
+          "description": "In hospital for 8 mins ",
+          "details": "Attacked by HammersG",
           "state": "Hospital",
           "color": "red",
-          "until": 1789229456
+          "until": 1789230889
         },
         "last_action": {
           "status": "Offline",
           "timestamp": 1789222890,
-          "relative": "1 hour ago"
+          "relative": "2 hours ago"
         }
       },
       "employees": {
