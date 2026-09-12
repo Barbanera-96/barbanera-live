@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:10:38.313913+02:00",
+  "generated_at": "2026-09-12T08:15:18.074841+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 563,
-        "full_time": 13763
+        "tick_time": 284,
+        "full_time": 13484
       },
       "nerve": {
-        "current": 15,
+        "current": 16,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 263,
-        "full_time": 2963
+        "tick_time": 284,
+        "full_time": 2684
       },
       "happy": {
-        "current": 738,
+        "current": 743,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 263,
-        "full_time": 11063
+        "tick_time": 884,
+        "full_time": 10784
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 263,
+        "tick_time": 284,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789193437
+        "end": 1789193716
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 9987
+      "time_left": 9707
     }
   },
   "skills": {
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789192298,
-          "relative": "19 minutes ago"
+          "relative": "23 minutes ago"
         }
       },
       "employees": {
