@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:25:47.246856+02:00",
+  "generated_at": "2026-09-12T10:31:53.395432+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 100,
+        "current": 105,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 255,
-        "full_time": 5655
+        "tick_time": 488,
+        "full_time": 5288
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 255,
+        "tick_time": 188,
         "full_time": 0
       },
       "happy": {
-        "current": 783,
+        "current": 788,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 255,
-        "full_time": 2955
+        "tick_time": 788,
+        "full_time": 2588
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 255,
+        "tick_time": 188,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789201545
+        "end": 1789201912
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 1878
+      "time_left": 1512
     }
   },
   "skills": {
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 24 mins ",
+          "description": "In hospital for 18 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789198688,
-          "relative": "47 minutes ago"
+          "relative": "53 minutes ago"
         }
       },
       "employees": {
