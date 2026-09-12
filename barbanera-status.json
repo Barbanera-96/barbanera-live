@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:40:34.600439+02:00",
+  "generated_at": "2026-09-12T20:45:10.051117+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,31 +11,31 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 567,
-        "full_time": 5967
+        "tick_time": 294,
+        "full_time": 5694
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 267,
+        "tick_time": 294,
         "full_time": 0
       },
       "happy": {
-        "current": 784,
+        "current": 789,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 267,
-        "full_time": 2967
+        "tick_time": 894,
+        "full_time": 2694
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 267,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789238433
+        "end": 1789238706
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789226686,
       "arrival_at": 1789240426,
-      "time_left": 1992
+      "time_left": 1717
     }
   },
   "skills": {
@@ -234,7 +234,7 @@
     "networth": {
       "money": {
         "pending": 0,
-        "wallet": 562684,
+        "wallet": 762684,
         "vault": 0,
         "bookie": 0,
         "city_bank": 0,
@@ -258,8 +258,8 @@
         "company": 0
       },
       "points": 189504,
-      "total": 2080992,
-      "timestamp": 1789234861
+      "total": 2280992,
+      "timestamp": 1789238704
     }
   }
 }
