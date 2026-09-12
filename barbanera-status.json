@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:15:32.006640+02:00",
+  "generated_at": "2026-09-12T11:20:28.277018+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 125,
+        "current": 130,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 270,
-        "full_time": 2670
+        "tick_time": 574,
+        "full_time": 2374
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 270,
+        "tick_time": 274,
         "full_time": 0
       },
       "happy": {
@@ -27,16 +27,16 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 870,
+        "tick_time": 574,
         "full_time": 0
       },
       "life": {
-        "current": 63,
+        "current": 94,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 270,
-        "full_time": 5670
+        "tick_time": 274,
+        "full_time": 5374
       },
       "chain": {
         "id": 0,
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789204530
+        "end": 1789204826
       }
     }
   },
@@ -182,7 +182,7 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 50 mins ",
+          "description": "In hospital for 45 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
@@ -191,7 +191,7 @@
         "last_action": {
           "status": "Offline",
           "timestamp": 1789203918,
-          "relative": "10 minutes ago"
+          "relative": "15 minutes ago"
         }
       },
       "employees": {
