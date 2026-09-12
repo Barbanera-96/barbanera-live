@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:35:06.057091+02:00",
+  "generated_at": "2026-09-12T07:40:11.851593+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,35 +7,35 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 15,
+        "current": 20,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 296,
-        "full_time": 15896
+        "tick_time": 590,
+        "full_time": 15590
       },
       "nerve": {
-        "current": 8,
+        "current": 9,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 296,
-        "full_time": 5096
+        "tick_time": 290,
+        "full_time": 4790
       },
       "happy": {
         "current": 728,
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 596,
-        "full_time": 13196
+        "tick_time": 290,
+        "full_time": 12890
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 296,
+        "tick_time": 290,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789191304
+        "end": 1789191610
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 12119
+      "time_left": 11813
     }
   },
   "skills": {
@@ -182,11 +182,11 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "Okay",
-          "details": null,
-          "state": "Okay",
-          "color": "green",
-          "until": null
+          "description": "In hospital for 26 mins ",
+          "details": "Attacked by Tedworth",
+          "state": "Hospital",
+          "color": "red",
+          "until": 1789193199
         },
         "last_action": {
           "status": "Offline",
