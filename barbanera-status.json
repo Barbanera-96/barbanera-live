@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:40:07.912256+02:00",
+  "generated_at": "2026-09-12T02:45:10.607781+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -11,7 +11,7 @@
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 595,
+        "tick_time": 294,
         "full_time": 0
       },
       "nerve": {
@@ -19,7 +19,7 @@
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 294,
         "full_time": 0
       },
       "happy": {
@@ -27,7 +27,7 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 295,
+        "tick_time": 894,
         "full_time": 0
       },
       "life": {
@@ -35,7 +35,7 @@
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 295,
+        "tick_time": 294,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789173605
+        "end": 1789173906
       }
     }
   },
@@ -257,9 +257,9 @@
         "stock_market": 0,
         "company": 0
       },
-      "points": 189606,
-      "total": 1701174,
-      "timestamp": 1789170004
+      "points": 189504,
+      "total": 1701072,
+      "timestamp": 1789173904
     }
   }
 }
