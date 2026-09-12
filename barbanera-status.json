@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:16:05.346096+02:00",
+  "generated_at": "2026-09-12T10:20:13.482760+02:00",
   "profile": {
     "name": "Barbanera",
     "level": 15
@@ -7,19 +7,19 @@
   "bars": {
     "bars": {
       "energy": {
-        "current": 95,
+        "current": 100,
         "maximum": 150,
         "increment": 5,
         "interval": 600,
-        "tick_time": 238,
-        "full_time": 6238
+        "tick_time": 588,
+        "full_time": 5988
       },
       "nerve": {
         "current": 25,
         "maximum": 25,
         "increment": 1,
         "interval": 300,
-        "tick_time": 238,
+        "tick_time": 288,
         "full_time": 0
       },
       "happy": {
@@ -27,15 +27,15 @@
         "maximum": 800,
         "increment": 5,
         "interval": 900,
-        "tick_time": 838,
-        "full_time": 3538
+        "tick_time": 588,
+        "full_time": 3288
       },
       "life": {
         "current": 625,
         "maximum": 625,
         "increment": 31,
         "interval": 300,
-        "tick_time": 238,
+        "tick_time": 288,
         "full_time": 0
       },
       "chain": {
@@ -46,7 +46,7 @@
         "modifier": 1,
         "cooldown": 0,
         "start": 0,
-        "end": 1789200962
+        "end": 1789201212
       }
     }
   },
@@ -104,7 +104,7 @@
       "method": "Standard",
       "departed_at": 1789189445,
       "arrival_at": 1789203425,
-      "time_left": 2460
+      "time_left": 2212
     }
   },
   "skills": {
@@ -182,16 +182,16 @@
         "id": 2785070,
         "name": "NICCUU",
         "status": {
-          "description": "In hospital for 34 mins ",
+          "description": "In hospital for 30 mins ",
           "details": "Severe emesis following Ipecac Syrup ingestion",
           "state": "Hospital",
           "color": "red",
           "until": 1789203025
         },
         "last_action": {
-          "status": "Offline",
+          "status": "Idle",
           "timestamp": 1789198688,
-          "relative": "37 minutes ago"
+          "relative": "42 minutes ago"
         }
       },
       "employees": {
